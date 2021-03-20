@@ -12,7 +12,7 @@ Flask-Script==2.0.5
 Flask-SQLAlchemy==2.0
 inflect==0.2.5
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 Mako==1.0.7
 MarkupSafe==1.0
 marshmallow==2.3.0
